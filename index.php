@@ -23,5 +23,4 @@
 
     //Run Fat-Free
     $f3->run();
-
 ?>
